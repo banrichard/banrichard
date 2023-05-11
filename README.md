@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard Ban, now a master student at Aalto University.
 - 👀 I’m interested in machine learning and data mining.
-- 🌱 I’m currently learning graph data mining and 3D computer version.
+- 🌱 I’m currently learning data mining and graph representation learning.
 - 📫 email:lujie.ban@aalto.fi; richard190400@outlook.com
 
 <!---

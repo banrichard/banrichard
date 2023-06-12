@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard Ban, now a master student at Aalto University.
+- 👋 Hi, I’m Richard Ban, now a Research Assistant at The Chinese University of Hong Kong, Shenzhen.
 - 👀 I’m interested in machine learning and data mining.
 - 🌱 I’m currently researching about GNN-based subgraph counting.
 - 📫 email:lujie.ban@aalto.fi; richard190400@outlook.com

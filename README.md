@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Richard Ban, now a Research Assistant at The Chinese University of Hong Kong, Shenzhen.
-- 👀 I’m interested in machine learning and data mining.
+- 👋 Hi, I’m Lujie(Richard) Ban, now a research assistant at The Chinese University of Hong Kong, Shenzhen.
+- 👀 I’m interested in deep learning, graph neural network and data mining.
 - 🌱 I’m currently researching about GNN-based subgraph counting.
 - 📫 email:lujie.ban@aalto.fi; richard190400@outlook.com
 
